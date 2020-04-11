@@ -6,6 +6,7 @@ Created on Tue Apr  7 16:43:53 2020
 """
 
 import pandas as pd
+import numpy as np
 
 df = pd.read_excel(r'C:\Users\KIIT\AppData\Local\Temp\titanic.xls')
 df.dtypes
